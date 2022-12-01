@@ -1,0 +1,28 @@
+.to-Baikal {
+  height: 57.8125vw;
+  text-align: center;
+  margin: 0 48px 92px;
+  background-image: url(/images/baydog.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 1280px) {
+  .to-Baikal {
+    margin: 0 0 92px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .to-Baikal {
+    margin: 0 0 88px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .to-Baikal {
+    margin: 0 0 64px;
+  }
+}
