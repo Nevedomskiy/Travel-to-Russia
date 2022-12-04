@@ -9,7 +9,7 @@
 @import url(../blocks/header/__icons/header__icons.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__selection-language/header__selection-language.css);
-@import url(../blocks/header/__language-ru/header__language-ru.css);
+@import url(../blocks/header/__language/_ru/header__language_ru.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__image/header__image.css);
