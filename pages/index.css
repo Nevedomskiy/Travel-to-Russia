@@ -1,5 +1,5 @@
 /* Подключаем normalize */
-@import url(../vendor/normalize.css);
+@import url(../vendor/styles/normalize.css);
 
 /* Стили page */
 @import url(../blocks/page/page.css);

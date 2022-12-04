@@ -16,3 +16,10 @@
     line-height: 1.09375em;
   }
 }
+
+@media screen and (min-width: 1600px) {
+  .to-Baikal__title {
+    font-size: 120px;
+    max-width: 900px;
+  }
+}

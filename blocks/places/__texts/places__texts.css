@@ -11,3 +11,9 @@
     line-height: 1.85em;
   }
 }
+
+@media screen and (min-width: 1600px) {
+  .places__texts {
+    font-size: 35px;
+  }
+}

@@ -6,6 +6,12 @@
   margin-bottom: 40px;
 }
 
+@media screen and (min-width: 1600px) {
+  .whathaventseen__title {
+    font-size: 90px;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .whathaventseen__title {
     font-size: 32px;

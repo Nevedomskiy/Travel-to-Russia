@@ -1,6 +1,5 @@
 .places__link {
   font-size: 18px;
-  font-weight: 400;
   line-height: 1.22em;
   align-self: flex-end;
   color: #fff;
@@ -14,7 +13,6 @@
   top: -24px;
   left: 0;
   font-size: 12px;
-  font-weight: 400;
   line-height: 1em;
   letter-spacing: 2px;
 }
@@ -22,5 +20,16 @@
 @media screen and (max-width: 768px) {
   .places__link {
     margin: 0 16px 32px;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .places__link {
+    font-size: 50px;
+  }
+
+  .places__link::before {
+    font-size: 40px;
+    top: -50px;
   }
 }

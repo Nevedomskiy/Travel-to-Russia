@@ -22,3 +22,9 @@
     margin: 0 16px 56px;
   }
 }
+
+@media screen and (min-width: 1600px) {
+  .places__title {
+    font-size: 100px;
+  }
+}
