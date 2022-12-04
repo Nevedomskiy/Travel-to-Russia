@@ -10,7 +10,7 @@
    -Ветки, Слияние и Деплой в GIT
 
 В результате выполнения ПР3 из макеты FIGMA был сверстан адаптивный сайт, который в последующем был запушен на GITHAB и с помощью Diploy выложен в публичный доступ -
-[Ссылка на сайт] - (https://nevedomskiy.github.io/russian-travel/)
+[Ссылка на сайт] - (https://nevedomskiy.github.io/yet-another-project/)
 
 3. Ссылки на сторонник ресурсы для верстки сайта
 
@@ -32,6 +32,9 @@
    **Подбор цвета RGBA**
    [Ссылка на сайт](http://hex2rgba.devoth.com/)
 
+   **Сжатие SVG**
+   [Ссылка на сайт](https://jakearchibald.github.io/svgomg/)
+
 4. В ближайшее время планируется доработка сайта:
    -Добавить анимации при наведении на картинки
    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -48,7 +51,7 @@
    - Branches, Merge and Deploy to Git
 
 As a result of the implementation of WP3, a response site was made from the FIGMA layouts, which was subsequently published on GITHAB and made available to the public with the help of Diploy -
-[Link to site] - (https://nevedomskiy.github.io/russian-travel/)
+[Link to site] - (https://nevedomskiy.github.io/yet-another-project/)
 
 3. Links to export resources for site layout
 
@@ -69,6 +72,9 @@ As a result of the implementation of WP3, a response site was made from the FIGM
 
 **RGBA Color Matching**
 [Website Link](http://hex2rgba.devoth.com/)
+
+**SVG compression**
+[Website Link](https://jakearchibald.github.io/svgomg/)
 
 4. In the near future, it is planned to finalize the site:
    -Add animations when hovering over pictures
