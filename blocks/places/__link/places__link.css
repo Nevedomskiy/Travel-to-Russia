@@ -17,19 +17,8 @@
   letter-spacing: 2px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .places__link {
     margin: 0 16px 32px;
-  }
-}
-
-@media screen and (min-width: 1600px) {
-  .places__link {
-    font-size: 50px;
-  }
-
-  .places__link::before {
-    font-size: 40px;
-    top: -50px;
   }
 }
