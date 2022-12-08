@@ -8,10 +8,8 @@
 
 @media screen and (max-width: 767px) {
   .footer__links {
-    display: block;
-    gap: 0;
-  }
-  .footer__links li:last-of-type {
+    flex-direction: column;
+    gap: 32px 0;
     margin-bottom: 48px;
   }
 }

@@ -1,20 +1,7 @@
 .places__link {
   font-size: 18px;
   line-height: 1.22em;
-  align-self: flex-end;
   color: #fff;
-  position: relative;
-}
-
-.places__link::before {
-  content: "URL";
-  color: #aaaaaa;
-  position: absolute;
-  top: -24px;
-  left: 0;
-  font-size: 12px;
-  line-height: 1em;
-  letter-spacing: 2px;
 }
 
 @media screen and (max-width: 767px) {

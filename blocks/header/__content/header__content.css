@@ -20,7 +20,7 @@
 @media screen and (max-width: 767px) {
   .header__content {
     font-size: 40px;
-    margin: 0 16px;
+    margin: 0;
     line-height: 1.1em;
   }
 }
