@@ -1,26 +1,26 @@
-.header__content {
+.lead {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 0 148px;
+  margin: 0 148px 92px;
 }
 
 @media screen and (max-width: 1279px) {
-  .header__content {
-    margin: 0 48px;
+  .lead {
+    margin: 0 48px 92px;
   }
 }
 
 @media screen and (max-width: 1023px) {
-  .header__content {
-    margin: 0;
+  .lead {
+    margin: 0 0 88px 0;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .header__content {
+  .lead {
     font-size: 40px;
-    margin: 0;
     line-height: 1.1em;
+    margin: 0 0 64px 0;
   }
 }

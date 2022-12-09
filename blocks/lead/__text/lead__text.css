@@ -1,4 +1,4 @@
-.header__text {
+.lead__text {
   align-self: start;
   font-size: 10px;
   line-height: 1.4em;
@@ -8,13 +8,13 @@
 }
 
 @media screen and (max-width: 1023px) {
-  .header__text {
+  .lead__text {
     margin-left: 24px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .header__text {
+  .lead__text {
     margin-left: 16px;
   }
 }
