@@ -35,6 +35,9 @@
    **Сжатие SVG**
    [Ссылка на сайт](https://jakearchibald.github.io/svgomg/)
 
+   **Фамикон**
+   [Ссылка на сайт](https://favicon.io/favicon-generator/)
+
 4. В ближайшее время планируется доработка сайта:
    -Добавить анимации при наведении на картинки
    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -75,6 +78,9 @@ As a result of the implementation of WP3, a response site was made from the FIGM
 
 **SVG compression**
 [Website Link](https://jakearchibald.github.io/svgomg/)
+
+**Favicon**
+[Website Link](https://favicon.io/favicon-generator/)
 
 4. In the near future, it is planned to finalize the site:
    -Add animations when hovering over pictures
