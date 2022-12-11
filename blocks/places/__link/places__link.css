@@ -2,6 +2,8 @@
   font-size: 18px;
   line-height: 1.22em;
   color: #fff;
+  transition: 0.3s;
+  align-self: flex-start;
 }
 
 @media screen and (max-width: 767px) {
