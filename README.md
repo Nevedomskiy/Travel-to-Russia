@@ -1,4 +1,4 @@
-Для русскоязычных пользователей
+**Для русскоязычных пользователей**
 
 Название проекта - "Проект: Путешествие по России". 3 спринт, Проектная работа №3.
 
@@ -36,7 +36,7 @@
    **Фамикон**
    [Ссылка на сайт](https://favicon.io/favicon-generator/)
 
-For English speaking users
+**For English speaking users**
 
 Name of the project - "Project: Journey through Russia". 3 sprint, Project work No. 3.
 
