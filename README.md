@@ -10,7 +10,7 @@
 
 В результате выполнения ПР3 из макеты FIGMA был сверстан адаптивный сайт, который в последующем был запушен на GITHAB и с помощью Diploy выложен в публичный доступ - [Ссылка на сайт] - (https://nevedomskiy.github.io/yet-another-project/)
 
-Ссылки на сторонник ресурсы для верстки сайта
+Ссылки на сторонник ресурсы для верстки сайта:
 
 **GITHUB**
    [Ссылка на сайт](https://github.com/Nevedomskiy)
@@ -47,6 +47,8 @@ This project is used to consolidate the theoretical material in the Yandex Pract
 - Branches, Merge and Deploy to Git
 
 As a result of the implementation of WP3, a response site was made from the FIGMA layouts, which was subsequently published on GITHAB and made available to the public with the help of Diploy - [Link to site] - (https://nevedomskiy.github.io/yet-another-project/)
+
+Links to supporter resources for site layout:
 
 **GITHUB**
 [Website link](https://github.com/Nevedomskiy)
